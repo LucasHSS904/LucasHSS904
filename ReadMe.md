@@ -7,18 +7,18 @@
 
 ## Front End
 
-![Vue.js](https://img.shields.io/badge/Vue.js-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Vue.js](https://img.shields.io/badge/Vue.js-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-green)
 ![React](https://img.shields.io/badge/React-blue)
-![Next.js](https://img.shields.io/badge/Next.js-lightgrey)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blueviolet)
-![Angular](https://img.shields.io/badge/Angular-red)
+![Next.js](https://img.shields.io/badge/Next.js-green)
+![HTML](https://img.shields.io/badge/HTML-blue)
+![CSS](https://img.shields.io/badge/CSS-green)
+![Angular](https://img.shields.io/badge/Angular-blue)
 
 ## Back End
 
-![Java](https://img.shields.io/badge/Java-brightgreen)
-![Python](https://img.shields.io/badge/Python-yellowgreen)
+![Java](https://img.shields.io/badge/Java-blue)
+![Python](https://img.shields.io/badge/Python-green)
 
 ## Banco de Dados
 
@@ -27,8 +27,8 @@
 
 ## Ferramentas
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
-![Git](https://img.shields.io/badge/Git-orange)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
+![Git](https://img.shields.io/badge/Git-green)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-blue)
 
 
