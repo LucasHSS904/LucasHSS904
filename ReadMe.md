@@ -7,29 +7,29 @@
 
 ## Front End
 
-![Vue.js](https://img.shields.io/badge/Front%20End-Vue.js-green)
-![JavaScript](https://img.shields.io/badge/Front%20End-JavaScript-yellow)
-![React](https://img.shields.io/badge/Front%20End-React-blue)
-![Next.js](https://img.shields.io/badge/Front%20End-Next.js-lightgrey)
-![HTML](https://img.shields.io/badge/Front%20End-HTML-orange)
-![CSS](https://img.shields.io/badge/Front%20End-CSS-blueviolet)
-![Angular](https://img.shields.io/badge/Front%20End-Angular-red)
+![Vue.js](https://img.shields.io/badge/Vue.js-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![Next.js](https://img.shields.io/badge/Next.js-lightgrey)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blueviolet)
+![Angular](https://img.shields.io/badge/Angular-red)
 
 ## Back End
 
-![Java](https://img.shields.io/badge/Back%20End-Java-brightgreen)
-![Python](https://img.shields.io/badge/Back%20 End-Python-yellowgreen)
+![Java](https://img.shields.io/badge/Java-brightgreen)
+![Python](https://img.shields.io/badge/Python-yellowgreen)
 
 ## Banco de Dados
 
-![MySQL](https://img.shields.io/badge/Banco%20de%20Dados-MySQL-blue)
-![MongoDB](https://img.shields.io/badge/Banco%20de%20Dados-MongoDB-green)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
 ## Ferramentas
 
-![Bootstrap](https://img.shields.io/badge/Ferramentas-Bootstrap-purple)
-![Git](https://img.shields.io/badge/Ferramentas-Git-orange)
-![Microsoft Office](https://img.shields.io/badge/Ferramentas-Microsoft%20Office-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+![Git](https://img.shields.io/badge/Git-orange)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-blue)
 
 
 # 📊 GitHub Stats:
