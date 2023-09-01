@@ -7,29 +7,29 @@
 
 ## Front End
 
-![Vue.js](https://img.shields.io/badge/Front%20End-Vue.js-green)
-![JavaScript](https://img.shields.io/badge/Front%20End-JavaScript-yellow)
-![React](https://img.shields.io/badge/Front%20End-React-blue)
-![Next.js](https://img.shields.io/badge/Front%20End-Next.js-lightgrey)
-![HTML](https://img.shields.io/badge/Front%20End-HTML-orange)
-![CSS](https://img.shields.io/badge/Front%20End-CSS-blueviolet)
-![Angular](https://img.shields.io/badge/Front%20End-Angular-red)
+- ![Vue.js](https://img.shields.io/badge/Front%20End-Vue.js-4FC08D?style=flat-square&logo=vue.js)
+- ![JavaScript](https://img.shields.io/badge/Front%20End-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+- ![React](https://img.shields.io/badge/Front%20End-React-61DAFB?style=flat-square&logo=react)
+- ![Next.js](https://img.shields.io/badge/Front%20End-Next.js-000000?style=flat-square&logo=next.js)
+- ![HTML](https://img.shields.io/badge/Front%20End-HTML-E34F26?style=flat-square&logo=html5)
+- ![CSS](https://img.shields.io/badge/Front%20End-CSS-1572B6?style=flat-square&logo=css3)
+- ![Angular](https://img.shields.io/badge/Front%20End-Angular-DD0031?style=flat-square&logo=angular)
 
 ## Back End
 
-![Java](https://img.shields.io/badge/Back%20End-Java-brightgreen)
-![Python](https://img.shields.io/badge/Back%20 End-Python-yellowgreen)
+- ![Java](https://img.shields.io/badge/Back%20End-Java-007396?style=flat-square&logo=java)
+- ![Python](https://img.shields.io/badge/Back%20 End-Python-3776AB?style=flat-square&logo=python)
 
 ## Banco de Dados
 
-![MySQL](https://img.shields.io/badge/Banco%20de%20Dados-MySQL-blue)
-![MongoDB](https://img.shields.io/badge/Banco%20de%20Dados-MongoDB-green)
+- ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql)
+- ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb)
 
 ## Ferramentas
 
-![Bootstrap](https://img.shields.io/badge/Ferramentas-Bootstrap-purple)
-![Git](https://img.shields.io/badge/Ferramentas-Git-orange)
-![Microsoft Office](https://img.shields.io/badge/Ferramentas-Microsoft%20Office-blue)
+- ![Bootstrap](https://img.shields.io/badge/Tools-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+- ![Git](https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git)
+- ![Microsoft Office](https://img.shields.io/badge/Tools-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office)
 
 
 # 📊 GitHub Stats:
