@@ -7,29 +7,30 @@
 
 ## Front End
 
-- [Vue.js](https://vuejs.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [React](https://reactjs.org/)
-- [Next.js](https://nextjs.org/)
-- HTML
-- CSS
-- [Angular](https://angular.io/)
+![Vue.js](https://img.shields.io/badge/Front%20End-Vue.js-green)
+![JavaScript](https://img.shields.io/badge/Front%20End-JavaScript-yellow)
+![React](https://img.shields.io/badge/Front%20End-React-blue)
+![Next.js](https://img.shields.io/badge/Front%20End-Next.js-lightgrey)
+![HTML](https://img.shields.io/badge/Front%20End-HTML-orange)
+![CSS](https://img.shields.io/badge/Front%20End-CSS-blueviolet)
+![Angular](https://img.shields.io/badge/Front%20End-Angular-red)
 
 ## Back End
 
-- [Java](https://www.java.com/)
-- [Python](https://www.python.org/)
+![Java](https://img.shields.io/badge/Back%20End-Java-brightgreen)
+![Python](https://img.shields.io/badge/Back%20 End-Python-yellowgreen)
 
 ## Banco de Dados
 
-- [MySQL](https://www.mysql.com/)
-- [MongoDB](https://www.mongodb.com/)
+![MySQL](https://img.shields.io/badge/Banco%20de%20Dados-MySQL-blue)
+![MongoDB](https://img.shields.io/badge/Banco%20de%20Dados-MongoDB-green)
 
 ## Ferramentas
 
-- [Bootstrap](https://getbootstrap.com/)
-- [Git](https://git-scm.com/)
-- Microsoft Office
+![Bootstrap](https://img.shields.io/badge/Ferramentas-Bootstrap-purple)
+![Git](https://img.shields.io/badge/Ferramentas-Git-orange)
+![Microsoft Office](https://img.shields.io/badge/Ferramentas-Microsoft%20Office-blue)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LucasHSS904&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
