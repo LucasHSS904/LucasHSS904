@@ -21,6 +21,7 @@
 
 ![Java](https://img.shields.io/badge/Java-blue)
 ![Python](https://img.shields.io/badge/Python-green)
+![PHP](https://img.shields.io/badge/PHP-blue)
 
 # Banco de Dados
 
