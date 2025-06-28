@@ -9,19 +9,15 @@
 
 # Front End
 
-![Vue.js](https://img.shields.io/badge/Vue.js-blue)
+![PHP](https://img.shields.io/badge/PHP-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-green)
 ![React](https://img.shields.io/badge/React-blue)
-![Next.js](https://img.shields.io/badge/Next.js-green)
-![HTML](https://img.shields.io/badge/HTML-blue)
-![CSS](https://img.shields.io/badge/CSS-green)
-![Angular](https://img.shields.io/badge/Angular-blue)
+![HTML](https://img.shields.io/badge/HTML-green)
+![CSS](https://img.shields.io/badge/CSS-blue)
 
 # Back End
 
-![Java](https://img.shields.io/badge/Java-blue)
-![Python](https://img.shields.io/badge/Python-green)
-![PHP](https://img.shields.io/badge/PHP-blue)
+![Laravel](https://img.shields.io/badge/Laravel-blue)
 
 # Banco de Dados
 
