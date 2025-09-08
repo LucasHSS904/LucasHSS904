@@ -1,6 +1,6 @@
 ## 💫 Sobre mim:
 
-💻Sou Desenvolvedor Full Stack<br>👔Trabalho na empresa https://newton.ag
+💻Sou Desenvolvedor Full Stack
 
 ## 🌐 Redes Sociais:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/lucas-henrique-5b3b591a7) 
