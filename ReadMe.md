@@ -18,9 +18,6 @@
 # Back End
 
 ![Laravel](https://img.shields.io/badge/Laravel-blue)
-
-# Banco de Dados
-
 ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-green)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
